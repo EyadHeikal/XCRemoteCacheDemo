@@ -1,0 +1,5 @@
+primary_repo: "https://github.com/EyadHeikal/XCRemoteCacheDemo.git"
+cache_addresses:
+- http://localhost:8080/cache
+remote_commit_file: arc.rc
+primary_branch: "master"
